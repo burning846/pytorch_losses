@@ -8,6 +8,7 @@ Implement some useful loss functions in order to avoid additional code work.
 
 ### implemented losses
 
-- SSIM
-- VGG loss
-- Total Variation Loss
+- [x] SSIM
+- [x] VGG loss
+- [x] VGG loss plus (content + style)
+- [x] Total Variation Loss
