@@ -6,3 +6,8 @@
 
 Implement some useful loss functions in order to avoid additional code work.
 
+### implemented losses
+
+- SSIM
+- VGG loss
+- Total Variation Loss
