@@ -12,3 +12,4 @@ Implement some useful loss functions in order to avoid additional code work.
 - [x] VGG loss
 - [x] VGG loss plus (content + style)
 - [x] Total Variation Loss
+- [x] wing loss / adaptive wing loss (landmark regression)
